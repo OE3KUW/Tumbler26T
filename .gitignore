@@ -1,0 +1,5 @@
+.pio/
+.vscode/
+
+# WLAN-Zugangsdaten - bleiben lokal, Vorlage siehe secrets.h.example
+src/secrets.h
